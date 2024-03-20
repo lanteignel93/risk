@@ -59,7 +59,7 @@ def execute_mass_attack(
         def_player_troop=def_player_troop_cnt
     )
         
-    
+# TODO: Make it user input 
 def main():
     for _ in range(100):
         print(execute_mass_attack(42,42,10))
